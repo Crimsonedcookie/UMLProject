@@ -1,2 +1,3 @@
 This is the project I worked on in my UMass Lowell Internship over the Summer of 2026. I worked with Professor Alessandro Sabato and 
-PhD Candidate Francesco Gasperini. An official README is within the project itself.
+PhD Candidate Francesco Gasperini. An official README is within the project itself. I wrote this code on PyCharm and pushed it to Github, so it's 
+not fully version controlled. 
